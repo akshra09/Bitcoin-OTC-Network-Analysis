@@ -12,7 +12,7 @@ SOURCE, TARGET, RATING, TIME where
 *TIME: the time of the rating, measured as seconds since Epoch.
 Dataset statistics
 
-Nodes                                 5,881
-Edges                                35,592
-Range of edge weight             -10 to +10
-Percentage of positive edges            89%
+*Nodes                                 5,881
+*Edges                                35,592
+*Range of edge weight             -10 to +10
+*Percentage of positive edges            89%
