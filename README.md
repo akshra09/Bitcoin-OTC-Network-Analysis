@@ -6,10 +6,10 @@ Each line has one rating, sorted by time, with the following format:
 
 SOURCE, TARGET, RATING, TIME where
 
-SOURCE: node id of source, i.e., rater
-TARGET: node id of target, i.e., ratee
-RATING: the source's rating for the target, ranging from -10 to +10 in steps of 1
-TIME: the time of the rating, measured as seconds since Epoch.
+*SOURCE: node id of source, i.e., rater
+*TARGET: node id of target, i.e., ratee
+*RATING: the source's rating for the target, ranging from -10 to +10 in steps of 1
+*TIME: the time of the rating, measured as seconds since Epoch.
 Dataset statistics
 
 Nodes                                 5,881
